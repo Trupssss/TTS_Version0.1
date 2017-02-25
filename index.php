@@ -12,8 +12,8 @@
 				<img class = 'newappIcon' src='images/Tour4.jpg'>
 			</td>
 			<td>
-				<h1 id = "message"><?php echo "Hello World!"; ?></h1>
-				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application</span>.
+				<h1 id = "message"><?php echo "Welcome to ISSC Tour Guide"; ?></h1>
+				<p class='description'></p> We will help you <span class="blue">make your tour beautiful!</span>.
 			</td>
 		</tr>
 	</table>
