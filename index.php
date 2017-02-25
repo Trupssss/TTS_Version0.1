@@ -13,7 +13,7 @@
 			<td style='width: 30%;'>
 				 <img class = 'newappIcon' src='images/Tour7.jpg'>	
 					<style>
-						background-image:url('images/Tour6.gif') ;
+						background-image:url('images/Tour6.jpg') ;
 					</style>
 			</td>
 			<td>
