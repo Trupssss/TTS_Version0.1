@@ -11,7 +11,10 @@
 	<table>
 		<tr>
 			<td style='width: 30%;'>
-				/** <img class = 'newappIcon' src='images/Tour5.jpg'>	**/
+				 <img class = 'newappIcon' src='images/Tour7.gif'>	
+					<style>
+						background-image:url('images/Tour6.gif') ;
+					</style>
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "Welcome to ISSC Tour Guide"; ?></h1>
