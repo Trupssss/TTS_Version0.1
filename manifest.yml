@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: TTS_Version0.1
+  host: TTSVersion001
+  disk_quota: 1024M
