@@ -11,7 +11,7 @@
 	<table>
 		<tr>
 			<td style='width: 30%;'>
-				 <img class = 'newappIcon' src='images/Tour6.jpg'>	
+				 <img class = 'newappIcon' src='images/Tour7.jpg'>	
 					<style>
 						background-image:url('images/Tour6.jpg') ;
 					</style>
