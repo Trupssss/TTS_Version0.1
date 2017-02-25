@@ -1,23 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ISSC Tour Guide</title>
+	<title>Watson Tour Guide</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="stylesheet" href="style.css" />
 	
-<?php
-$url = 'images/Tour5.jpg';
-?>
-	
-<html>
-	<head>
-		<style type="text/css">
-
-			{
-				background-image:url('<?php echo $url ?>');
-			}
-		</style>
-	</head>
+</head>
 	
 <body>
 	<table>
