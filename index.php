@@ -9,7 +9,7 @@
 	<table>
 		<tr>
 			<td style='width: 30%;'>
-				<img class = 'newappIcon' src='images/Tour3.gif'>
+				<img class = 'newappIcon' src='images/Tour4.jpg'>
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "Hello World!"; ?></h1>
