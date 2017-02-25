@@ -18,7 +18,7 @@
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "Welcome to ISSC Tour Guide"; ?></h1>
-				<p class='description'></p> We will help you <span class="blue">make your tour beautiful!</span>.
+				<p class='description'></p> We will help you <span class="blue">make your tour beautiful!</span>
 			</td>
 		</tr>
 	</table>
