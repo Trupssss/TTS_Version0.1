@@ -4,12 +4,26 @@
 	<title>PHP Starter Application</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="stylesheet" href="style.css" />
-</head>
+	
+<?php
+$url = 'images/Tour5.jpg';
+?>
+	
+<html>
+	<head>
+		<style type="text/css">
+
+			{
+				background-image:url('<?php echo $url ?>');
+			}
+		</style>
+	</head>
+	
 <body>
 	<table>
 		<tr>
 			<td style='width: 30%;'>
-				<img class = 'newappIcon' src='images/Tour4.jpg'>
+				/** <img class = 'newappIcon' src='images/Tour5.jpg'>	**/
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "Welcome to ISSC Tour Guide"; ?></h1>
